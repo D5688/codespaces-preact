@@ -1,6 +1,6 @@
 # GitHub Codespaces ♥️ Preact
 
-[Try Preact in a codespace](https://github.com/codespaces/new?template=preact)
+[Try Preact in a codespace][default]
 
 Welcome to your shiny new Codespace running Preact! We've got everything fired up and running for you to explore Preact.
 
@@ -28,3 +28,6 @@ npm run test
 ```
 
 For detailed explanation on how things work, checkout the [CLI Readme](https://github.com/developit/preact-cli/blob/master/README.md).
+
+
+[def]: https://github.com/codespaces/new?template=preact
